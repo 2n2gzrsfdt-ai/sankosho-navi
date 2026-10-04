@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://2n2gzrsfdt-ai.github.io/sankosho-navi/sitemap.xml
